@@ -84,6 +84,8 @@
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "2.0 HDI", "vi": "30000 / 1", "di": "150000 / 10" },
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "1.0 VTI 72", "vi": "15000 / 1", "di": "CHAINE" },
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "VTI 72", "vi": "15000 / 1", "di": "CHAINE" },
+  { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "1.0 VTI 68", "vi": "15000 / 1", "di": "CHAINE" },
+  { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "VTI 68", "vi": "15000 / 1", "di": "CHAINE" },
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "1.0 PURETECH 68", "vi": "20000 / 1", "di": "100000 / 6" },
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "PURETECH 68", "vi": "20000 / 1", "di": "100000 / 6" },
   { "ma": "PSA PEUGEOT CITROEN DS OPEL", "mo": "1.2 PURETECH 82", "vi": "20000 / 1", "di": "100000 / 6" },
