@@ -30,6 +30,8 @@
   { "ma": "RENAULT DACIA NISSAN", "mo": "2.0 DCI", "vi": "30000 / 2", "di": "150000 / 6" },
   { "ma": "RENAULT DACIA NISSAN", "mo": "1.2 12V 80", "vi": "20000 / 1", "di": "150000 / 6" },
   { "ma": "RENAULT DACIA NISSAN", "mo": "1.2 16V", "vi": "15000 / 1", "di": "120000 / 5" },
+  { "ma": "RENAULT DACIA NISSAN", "mo": "1.2 60", "vi": "20000 / 1", "di": "150000 / 6" },
+  { "ma": "RENAULT DACIA NISSAN", "mo": "60", "vi": "20000 / 1", "di": "150000 / 6" },
   { "ma": "RENAULT DACIA NISSAN", "mo": "0.9 SCE 75", "vi": "20000 / 1", "di": "CHAINE" },
   { "ma": "RENAULT DACIA NISSAN", "mo": "SCE 75", "vi": "20000 / 1", "di": "CHAINE" },
   { "ma": "RENAULT DACIA NISSAN", "mo": "0.9 TCE 90", "vi": "30000 / 2", "di": "CHAINE" },
