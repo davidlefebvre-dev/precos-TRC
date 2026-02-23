@@ -233,7 +233,7 @@
   { "ma": "TOYOTA LEXUS", "mo": "140H", "vi": "15000 / 1", "di": "CHAINE" },
   { "ma": "TOYOTA LEXUS", "mo": "225H", "vi": "15000 / 1", "di": "CHAINE" },
   { "ma": "TOYOTA LEXUS", "mo": "200H", "vi": "15000 / 1", "di": "CHAINE" },
-  { "ma": "TOYOTA LEXUS", "mo": "Vvt-i", "vi": "15000 / 1", "di": "120000 kms" },
+  { "ma": "TOYOTA LEXUS", "mo": "Vvt-i", "vi": "15000 / 1", "di": "120000 / N/A" },
   { "ma": "MAZDA", "mo": "1.5 SKYACTIVE", "vi": "20000 / 1", "di": "N/C" },
   { "ma": "MAZDA", "mo": "SKYACTIVE", "vi": "20000 / 1", "di": "N/C" },
   { "ma": "MAZDA", "mo": "2 SKYACTIVE", "vi": "15000 / 1", "di": "CHAINE" },
